@@ -1,0 +1,10 @@
+
+opencv-python-headless
+temp
+streamlit
+mediapipe
+numpy
+Pillow
+SpeechRecognition
+pyaudio
+
